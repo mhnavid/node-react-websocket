@@ -1,4 +1,4 @@
-# Websocket implementation with Node and React and exchange message in API call
+# Real-time message exchange/passing through API call in Node and React using Websocket
 
 ## Description
 
